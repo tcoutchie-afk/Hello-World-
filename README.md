@@ -1,22 +1,22 @@
 # Hello-World-
-First Repository 
+This is my sample README.md file that I created. 
 
 # Table of contents
-[Project Title](#Project-title)  
+_**[Project Title](#Project-title)  
 [Description](#Description)  
 [Tools Used](#Tools-used)  
 [Files Used](#Files-used)  
 [HOW To Run Program](#How-to-run-program)  
-[Additional Information](#Addtional-information)  
+[Additional Information](#Addtional-information) **_ 
 
 # Project Title 
 *Hello World Sample - My First Repository*
 
 # Description 
-Description of my first repository 
+Here is where I would describe my project in depth to help readers understand it better. 
 
 # Tools Used
-Tools that I used
+This is where I would list the tools and programming languages I used. 
 
 # Files Used
 Files used
