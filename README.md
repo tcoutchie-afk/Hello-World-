@@ -2,12 +2,12 @@
 First Repository 
 
 # Table of contents
-[Project Title](#Project-title)
-[Description](#Description)
-[Tools Used](#Tools-used)
-[Files Used](#Files-used)
-[HOW To Run Program](#How-to-run-program)
-[Additional Information](#Addtional-information)
+[Project Title](#Project-title)  
+[Description](#Description)  
+[Tools Used](#Tools-used)  
+[Files Used](#Files-used)  
+[HOW To Run Program](#How-to-run-program)  
+[Additional Information](#Addtional-information)  
 
 # Project Title 
 *Hello World Sample - My First Repository*
